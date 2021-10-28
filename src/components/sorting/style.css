@@ -1,0 +1,19 @@
+.enabledButton {
+  margin-right: 10px;
+  background-color: #00cc01;
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding: 5px;
+}
+
+.disabledButton {
+  margin-right: 10px;
+  background-color: red;
+  color: black;
+  border-radius: 5px;
+  cursor: not-allowed;
+  border: none;
+  padding: 5px;
+}
